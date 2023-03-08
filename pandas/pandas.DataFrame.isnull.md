@@ -6,4 +6,7 @@ Return a boolean same-sized object indicating if the values are NA. NA values, s
 
 Characters such as empty strings `'' `or `numpy.inf `are not considered NA values (unless you set `pandas.options.mode.use_inf_as_na=True).`
 
-Reference link: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.isnull.html#
+Reference link: 
+
+* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.isnull.html#
+* https://blog.csdn.net/weixin_44025103/article/details/124906768
