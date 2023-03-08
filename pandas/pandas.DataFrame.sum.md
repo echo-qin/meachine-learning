@@ -9,7 +9,7 @@ Series or DataFrame (if level specified).
 * https://blog.csdn.net/weixin_45144170/article/details/107695228
 
 ## Explanation of the axis parameter:
-![1678283754615](image/pandas.DataFrame.sum/1678283754615.png)
+![image1](image/pandas.DataFrame.sum/image1.png)
 
 * axis=0 means to sum data in different rows, so the result is you will get sum data for each column
 * axis=1 means to sum data in different columns, so the result is you will get sum data for each row
